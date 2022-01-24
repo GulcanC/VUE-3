@@ -7,9 +7,9 @@ https://gulcanc.github.io/VUE-3/
 This is my third VUE.js project as a part of the projects of the bestselling course “UDEMY - Vue - The Complete Guide (w/ Router, Vuex, Composition API)”. In this project I build some small front-end web applications.
 
 # The Technologies/Technics Used:
-*VUE 3
+* VUE 3
 
-*CSS, HTML
+* CSS, HTML
 
 * How to Output Reactive Data
 
@@ -19,8 +19,8 @@ This is my third VUE.js project as a part of the projects of the bestselling cou
 
 * Binding to Form Inputs
 
-*Git
+* Git
 
-*Github-pages
+* Github-pages
 
 
