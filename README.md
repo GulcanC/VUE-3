@@ -5,8 +5,9 @@ https://gulcanc.github.io/VUE-3/
 
 # About the Project
 This is my third VUE.js project as a part of the projects of the bestselling course “UDEMY - Vue - The Complete Guide (w/ Router, Vuex, Composition API)”. In this project I build some small front-end web applications.
+This course is not over yet, I have continued to produce new projects with different techniques. 
 
-# The Technologies/Technics Used:
+# The Technologies/Techniques Used:
 * VUE 3
 
 * CSS, HTML
